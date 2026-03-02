@@ -1,4 +1,4 @@
-## Compare Focus Bear with Other Productivity Apps
+## Comparing Focus Bear with Other Productivity Apps - Denziel Medallo
 ### Freedom
 * This app allows the user to block websites or other app that they decide. They can also set schedules and timers when the app starts to block those said app or websites. It also support cross-device blocking making sure the user is not distracted on other devices.
 ### Cold Turkey
