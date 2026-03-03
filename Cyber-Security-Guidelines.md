@@ -1,5 +1,6 @@
 # Cyber Security Reflection - Denziel Medallo
 
+## Reflection
 ### What security measures do you currently follow, and where can you improve?
 * I'm always wary about suspicious links in emails or anywhere I can find them, but this isn't always reliable because I might make a mistake. I also try to make my passwords unique and contain more characters and numbers but I always forget them which results in me changing them to something I can easily understand. 
 ### How can you make secure behaviour a habit rather than an afterthought?
@@ -9,5 +10,7 @@
 ### What would you do if you suspected a security breach or suspicious activity on your account?
 * From what I understand it's best to disconnect from the internet and scan device for malware and after that, change passwords to stronger ones. 
 
-##  Cyber security habit I will follow at Focus Bear.
+## Task
+
+###  Cyber security habit I will follow at Focus Bear.
 * Enable 2FA and always verify if the email I recieve is official.
