@@ -8,3 +8,6 @@
 * By using a password manager which will generate and encrypts them then save the passwords for me. So that I can have strong and unique passwords on all my accounts and devices.
 ### What would you do if you suspected a security breach or suspicious activity on your account?
 * From what I understand it's best to disconnect from the internet and scan device for malware and after that, change passwords to stronger ones. 
+
+##  Cyber security habit I will follow at Focus Bear.
+* Enable 2FA and always verify if the email I recieve is official.
