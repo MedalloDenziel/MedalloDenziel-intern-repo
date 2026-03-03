@@ -1,4 +1,4 @@
-# Company Reflection: Focus Bear
+# Company Reflection: Focus Bear - Denziel Medallo
 
 ### 1. Why do you think Focus Bear was created?
 Focus Bear was made for people with Autism and ADHD, or anyone who gets distracted easily and can't stay on task.
