@@ -17,6 +17,10 @@
 * I stay focused by mapping out my tasks the night before and using Focus Bear to minimize interruptions.
 * Things that distract me rrequent context-switching or fragmented information across different platforms.
 * The best way to support my productivity is providing comprehensive task details upfront so I can work through my plan autonomously.
+## Feedback & Growth
+* I like feedback to be direct, specific, and provided in writing so I can study it.
+* When I make a mistake, the best way to let me know is tell me directly and early. I prefer to fix errors immediately so I can get back to an organized workflow.
+* I appreciate it when teammates share their knowledge, resources, or documentation to help the whole team grow.
 ## Fun Facts & Quirks
 * One thing people often misunderstand about me is I have a very "monotone" exterior when I'm nervous or surprised. If I give you a short answer or just a nod, please don't mistake it that I'm not interetested or not paying attention. I'm usually just shy and actually very happy that you reached out to me.
 * A fun fact about me Despite being quiet, I really value being part of a team. I might freeze up during small talk, but I’m always happy to talk about the project, solve a bug together, or hear your thoughts on a task.
