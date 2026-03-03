@@ -1,5 +1,7 @@
 # Use of AI Tools Reflection - Denziel Medallo
 
+## Reflection
+
 ### When should you use AI for assistance, and when should you rely on your own skills?
 * When the tasks are repetitive and mundane or when analyzing data to indentify trends, you can use AI tools for assistance. But for tasks that needs critical thinking and making high-stakes decisions you need to rely on your own skill. Especially when writing code you need to rely on your understanding or knowledge first before you can consult and AI tool for assistance, this is to avoid skill degradation.
 ### How can you avoid over-reliance on AI while still benefiting from it?
@@ -8,3 +10,11 @@
 * Avoid using any personal or any confidential information when using an AI tool.
 * Make sure it doesn't save conversation history.
 * Use a strong password for every AI tools and avoid third-party sign-ins as they might share data between platforms.
+
+## Task
+### Identify one task you can improve using an AI tool, and try it out.
+* Checking for bugs in the code
+### Review the AI-generated output critically—did it require editing or fact-checking?
+* No
+### Document one best practice you will follow when using AI tools at Focus Bear.
+* Avoid giving AI tools any confidential information.
