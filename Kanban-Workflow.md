@@ -16,7 +16,10 @@ I have created a GitHub Project board for my repository with the following colum
 * **Not Started** Upcoming tasks and ideas.
 * **In Progress** The single task I am currently focused on.
 * **Ready for Review** Finished tasks waiting for feedback.
-* **Approved by Bot** Completed and verified work.
+* **Approved by Bot** Completed and verified work.  
+
+ ![Image](https://github.com/user-attachments/assets/fb71d3e4-c9e7-4790-a91e-fbb0a9737fe4) 
+
 ### Move at least one task through the Kanban process and update its status correctly.
 * 
 ### Identify one way you can improve task tracking in your role.
