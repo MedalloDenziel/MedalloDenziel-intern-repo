@@ -13,8 +13,9 @@
 
 ## Task
 ### Identify one task you can improve using an AI tool, and try it out.
-* Checking for bugs in the code
+* I used Claude ai to help me understand why my code is not working as a I want it to be, so ask claude ai to help me understand what to add or change.
 ### Review the AI-generated output critically—did it require editing or fact-checking?
-* No
+* Claude sometimes provide solution the with concepts I haven't learned yet or used built in functions in JavaScript that I haven't used. so, I always try to change in a way that I can understand.
 ### Document one best practice you will follow when using AI tools at Focus Bear.
 * Avoid giving AI tools any confidential information.
+
