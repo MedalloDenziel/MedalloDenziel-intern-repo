@@ -15,10 +15,11 @@
 ### Identify one task you can improve using an AI tool, and try it out.
 * I used Claude ai to help me understand why my code is not working as a I want it to be, so ask claude ai to help me understand what to add or change.  
 
-* Here I asked what's wrong with the code and it gave me three answers but the main problem was the typo. 
+* Here I asked what's wrong with the code and it gave me three answers but the main problem was the typo. It also suggested me to remove the "document.querySelector" but the code no longer works the way I want it so I didn't apply that suggestion.
 ![Image](https://github.com/user-attachments/assets/887efd76-d268-44b3-9b42-1febd0338bb0)  
 
-![Image](https://github.com/user-attachments/assets/94c69dfb-fb14-4b11-b318-02d3fdd7adb6)  
+![Image](https://github.com/user-attachments/assets/94c69dfb-fb14-4b11-b318-02d3fdd7adb6) 
+ 
 ### Review the AI-generated output critically—did it require editing or fact-checking?
 * Claude sometimes provide solution the with concepts I haven't learned yet or used built in functions in JavaScript that I haven't used. so, I always try to change in a way that I can understand.
 ### Document one best practice you will follow when using AI tools at Focus Bear.
